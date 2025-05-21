@@ -9,7 +9,8 @@
       </p>
       <br />
       <p style="margin-bottom: 10px">
-        📅 Data: 23 de maio de 2025 (sexta-feira)
+        📅 Data: 23 de maio de 2025 <br />
+        (sexta-feira)
       </p>
 
       <p style="margin-bottom: 10px">📍 Local: Rua Capitão Olavo, 505</p>
