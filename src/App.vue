@@ -8,11 +8,13 @@
         será em:
       </p>
       <br />
-      <p>📅 Data: 23 de maio de 2025 (sexta-feira)</p>
+      <p style="margin-bottom: 10px">
+        📅 Data: 23 de maio de 2025 (sexta-feira)
+      </p>
 
-      <p>📍 Local: Rua Capitão Olavo, 505</p>
+      <p style="margin-bottom: 10px">📍 Local: Rua Capitão Olavo, 505</p>
 
-      <p>⏰ Horário: 19h00</p>
+      <p style="margin-bottom: 10px">⏰ Horário: 19h00</p>
     </div>
   </div>
 </template>
